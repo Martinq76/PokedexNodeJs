@@ -1,0 +1,11 @@
+{
+    "name": "ma-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~4.11.0",
+        "ejs": "~2.1.4",
+        "mongodb": "~3.4.1"
+    },
+    "author": "Martinq76 <martin.queguiner.42@gmail.com>",
+    "description": "Pokedex réalisé en nodeJs"
+}
